@@ -2,6 +2,8 @@
 <h3 align="center">I believe learning is a lifelong journey, and knowledge gains true value when shared widely.
   <br> To me, the timing of your start doesn’t matter; what’s important is having the courage to begin 
   <br> and putting forth your best effort whenever the opportunity presents itself.</h3>
+  
+- 🔭 I’m currently working on **Django**
 
 - 🌱 I’m currently learning **Java**
 
