@@ -3,7 +3,7 @@
   <br> To me, the timing of your start doesn’t matter; what’s important is having the courage to begin 
   <br> and putting forth your best effort whenever the opportunity presents itself.</h3>
   
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Django** 
 
 - 🌱 I’m currently learning **Java**
 
