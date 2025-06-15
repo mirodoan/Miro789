@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miro Doan</h1>
 <h3 align="center">I believe that learning is a lifelong journey, and knowledge gains true value when it’s shared widely. To me, the timing of your start doesn’t matter; what’s important is having the courage to begin and putting forth your best effort whenever the opportunity presents itself.</h3>
 
-- 🔭 I’m currently working on **Django**
-
 - 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **mirodoanit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
